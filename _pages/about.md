@@ -31,7 +31,7 @@ When I am not working away on my computer you can find me outside, probably cros
 
 <style>
 .slideshow-container {
-  max-width: 700px;
+  max-width: 400px;
   position: relative;
   margin: auto;
 }
