@@ -23,6 +23,9 @@ When I am not working away on my computer you can find me outside, probably cros
   <div class="slide fade">
     <img src="{{ site.baseurl }}/images/slide_3.jpg" style="width:100%">
   </div>
+    <div class="slide fade">
+    <img src="{{ site.baseurl }}/images/slide_4.jpg" style="width:100%">
+  </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
