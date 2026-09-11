@@ -15,13 +15,13 @@ When I am not working away on my computer you can find me outside, probably cros
 
 <div class="slideshow-container">
   <div class="slide fade">
-    <img src="annacerosaletti.github.io/images/slide_1.jpg" style="width:100%">
+   <img src="{{ site.baseurl }}/images/slide_1.jpg" style="width:100%">
   </div>
   <div class="slide fade">
-    <img src="annacerosaletti.github.io/images/slide_2.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/slide_2.jpg" style="width:100%">
   </div>
   <div class="slide fade">
-    <img src="annacerosaletti@github.io/images/slide_3.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/slide_3.jpg" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
