@@ -2,7 +2,6 @@
 title: "Local Policy and Agrivoltaics: Evaluating Agrivoltaics Policy Presence, Stringency, and Predictors in Western New York State"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
 citation: Cerosaletti, A., Chesney, C., Bills-Walsh, K., & Stedman, R. *Local Policy and Agrivoltaics: Evaluating
 Agrivoltaics Policy Presence, Stringency, and Predictors in Western New York State* (In progress)
 ---
