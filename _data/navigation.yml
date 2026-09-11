@@ -15,5 +15,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
   
-  - title: "Papers in Progress"
-    url: /papers-in-progress/
+  - title: "Papers"
+    url: /papers/
