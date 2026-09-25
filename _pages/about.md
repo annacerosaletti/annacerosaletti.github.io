@@ -23,8 +23,9 @@ When I am not working away on my computer you can find me outside, probably cros
   <div class="slide fade">
     <img src="{{ site.baseurl }}/images/slide_3.jpg" style="width:100%">
   </div>
-    <div class="slide fade">
+  <div class="slide fade">
     <img src="{{ site.baseurl }}/images/slide_4.jpg" style="width:100%">
+    <div class="caption">A picture of the land for the proposed solar project I studied in my Undergraduate Thesis</div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -41,6 +42,14 @@ When I am not working away on my computer you can find me outside, probably cros
 
 .slide {
   display: none;
+}
+
+.caption {
+  text-align: center;
+  padding: 8px 12px;
+  color: #555;
+  font-size: 14px;
+  font-style: italic;
 }
 
 .prev, .next {
